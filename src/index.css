@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap");
+body {
+  margin: 0;
+  font-family: "Oxygen", sans-serif;
+  margin-bottom: 100px;
+}
+
+code {
+  font-family: "Oxygen", sans-serif;
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .call-to-action {
+    margin-top: 15px;
+}
+}
+  
+  /* Smartphones (landscape) ----------- */
+  @media only screen and (min-width : 321px) {
+    .call-to-action {
+      margin-top: 15px;
+  }
+}
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  
+  /* iPads (landscape) ----------- */
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  
+  /* iPads (portrait) ----------- */
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  /**********
+  iPad 3
+  **********/
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  /* Desktops and laptops ----------- */
+  @media only screen  and (min-width : 1224px) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }
+  
+  /* Large screens ----------- */
+  @media only screen  and (min-width : 1824px) {
+  /* Styles */
+  .call-to-action {
+    margin-top: -170px;
+  }
+  }

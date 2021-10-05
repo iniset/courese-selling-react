@@ -1,0 +1,30 @@
+[
+  {
+    "id": "615ae6c19fa4caab4ec371df",
+    "price": 32.53,
+    "picture": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-10-copyright-342x254.jpg",
+    "course_name": "Business Chinese",
+    "course_details": "Standard course for those who wish to improve business language skills."
+  },
+  {
+    "id": "615ae6c1f868a71a1b0362fe",
+    "price": 39.79,
+    "picture": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-8-copyright-342x254.jpg",
+    "course_name": "Work Placements",
+    "course_details": "Get the best experience at our school by tutoring the beginners."
+  },
+  {
+    "id": "615ae6c11d4139c81287b383",
+    "price": 38.94,
+    "picture": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-21-copyright-342x254.jpg",
+    "course_name": "Exam Preparation",
+    "course_details": "This course is available for short periods during the year."
+  },
+  {
+    "id": "615ae6c1daf83e306ff09ec3",
+    "price": 31.96,
+    "picture": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-2-copyright-342x254.jpg",
+    "course_name": "Chinese For Children",
+    "course_details": "Your children get to meet new friends and learn Chinese in groups."
+  }
+]
